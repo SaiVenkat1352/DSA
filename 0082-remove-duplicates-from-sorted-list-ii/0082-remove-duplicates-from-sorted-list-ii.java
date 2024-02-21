@@ -10,32 +10,32 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        if (head == null || head.next == null)
-            return head;
-
-        Map<Integer, Integer> map = new HashMap<>();
-        ListNode temp = head;
-
-        // Count the occurrences of each value
-        while (temp != null) {
-            map.put(temp.val, map.getOrDefault(temp.val, 0) + 1);
-            temp = temp.next;
-        }
-
-        ListNode dummy = new ListNode(-1);
-        ListNode prev = dummy;
-        temp = head;
-
-        // Traverse again to link non-duplicate nodes
-        while (temp != null) {
-            if (map.get(temp.val) == 1) {
-                ListNode newNode = new ListNode(temp.val);
-                prev.next = newNode;
-                prev = newNode;
+        ListNode dummy=new ListNode();
+        dummy.next=head;
+        ListNode prev=dummy;
+        ListNode temp=head;
+        
+         if(head==null)return null;
+        while(temp.next!=null)
+        {
+            if(temp.val!=temp.next.val)
+            {
+                prev=prev.next;
+                temp=temp.next;
             }
-            temp = temp.next;
-        }
+            else{
+                while(temp.next!=null && temp.val==temp.next.val)
+                {
+                    temp=temp.next;
 
+                }
+                prev.next=temp.next;
+                temp=temp.next;
+                if(temp==null)break;
+                
+            }
+        }
         return dummy.next;
+       
     }
 }
