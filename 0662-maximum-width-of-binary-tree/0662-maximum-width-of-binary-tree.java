@@ -30,12 +30,12 @@ class Solution {
         Queue<Pair> ds=new LinkedList<>();
         ds.add(new Pair(1,root));
         int maxi=0;
-        
+        int leftMostIndex=0;
+        int rightMostIndex=0;
         while(ds.size()>0)
         {
             int dsSize=ds.size();
-            int leftMostIndex=0;
-            int rightMostIndex=0;
+            
             for(int i=0;i<dsSize;i++)
             {
                 Pair pair=ds.poll();
