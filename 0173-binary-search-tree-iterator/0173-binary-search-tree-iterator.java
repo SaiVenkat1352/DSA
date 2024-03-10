@@ -14,13 +14,16 @@
  * }
  */
 class BSTIterator {
-     Queue<Integer> ds;
+     Stack<TreeNode> ds;
     public BSTIterator(TreeNode root) {
-        ds=new LinkedList<Integer>();
+        ds=new Stack<TreeNode>();
         helper(root);
     }
     public int next() {
-        return ds.remove();
+        TreeNode node=ds.pop();
+        if(node.right!=null)helper(node.right);
+        return node.val;
+        
         
     }
     
@@ -30,10 +33,12 @@ class BSTIterator {
     }
     public void helper(TreeNode root)
     {
-        if(root==null)return;
-        helper(root.left);
-        ds.add(root.val);
-        helper(root.right);
+        while(root!=null)
+        {
+            ds.push(root);
+            root=root.left;
+        }
+       
     }
 }
 
