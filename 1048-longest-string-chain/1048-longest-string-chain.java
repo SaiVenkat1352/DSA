@@ -1,6 +1,6 @@
 class Solution {
     public int longestStrChain(String[] words) {
-         Arrays.sort(words, Comparator.comparing(s->s.length()));
+        Arrays.sort(words, Comparator.comparing(s->s.length()));
         int dp[][]=new int[words.length][words.length+1];
         for(int arr[]:dp)
         {
@@ -29,15 +29,13 @@ class Solution {
     public boolean comparator(String word1,String word2)
     {
         if(word1.length()==word2.length())return false;
-        int heighCount=(word1.length()>word2.length())?word1.length():word2.length();
+        int heighCount=word1.length();
         int count =0;
-        String s1=(word1.length()>word2.length())?word1:word2;
-        String s2=(word1.length()<word2.length())?word1:word2;
         int i=0;
         int j=0;
-        while(i<s1.length() && j<s2.length())
+        while(i<word1.length() && j<word2.length())
         {
-            if(s1.charAt(i)==s2.charAt(j))
+            if(word1.charAt(i)==word2.charAt(j))
             {
                 count++;
                 i++;
