@@ -3,7 +3,7 @@
 class Solution {
     public String frequencySort(String s) {
         // Create a TreeMap to store characters and their frequencies
-        TreeMap<Character, Integer> frequencyMap = new TreeMap<>();
+        Map<Character, Integer> frequencyMap = new HashMap<>();
         
         // Count frequencies of characters in the string
         for (int i = 0; i < s.length(); i++) {
