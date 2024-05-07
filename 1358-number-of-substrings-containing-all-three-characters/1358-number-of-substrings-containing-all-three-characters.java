@@ -6,11 +6,7 @@ class Solution {
         int count=0;
         for(int i=0;i<s.length();i++)
         {
-            if(a!=-1 && b!=-1 && c!=-1)
-            {
-                count+=1+Math.min(Math.min(a,b),c);
-                
-            }
+           
             if(s.charAt(i)=='a')
             {
                 a=i;
@@ -23,13 +19,15 @@ class Solution {
             {
                 c=i;
             }
+             if(a!=-1 && b!=-1 && c!=-1)
+            {
+                count+=1+Math.min(Math.min(a,b),c);
+                
+            }
             
         }
-        if(a!=-1 && b!=-1 && c!=-1)
-        {
-            count+=1+Math.min(Math.min(a,b),c);
-                
-        }
+             
+        
         return count;
         
     }
