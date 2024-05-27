@@ -22,7 +22,7 @@ class Solution {
                 
             }
             else{
-                break;
+                return temp;
             }
         }
           
