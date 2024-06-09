@@ -1,29 +1,31 @@
 class Solution {
-    List<List<Integer>> ans;
+    static List<List<Integer>> ans;
     public List<List<Integer>> permute(int[] nums) {
         ans=new ArrayList<>();
-        Stack<Integer> ds=new Stack<>();
-        boolean vis[]=new boolean[nums.length];
-        helper(nums,vis,ds);
+        List<Integer> ds=new ArrayList<>();
+        helper(-1,nums,ds);
+        
         return ans;
+        
     }
-    public void helper(int nums[],boolean vis[],Stack<Integer> ds)
+    public static void helper(int ind,int[] nums,List<Integer> ds)
     {
-        if(ds.size()==nums.length){
+        // base case
+        if(ds.size()==nums.length)
+        {
             ans.add(new ArrayList<>(ds));
-            return;
+           return;
         }
+        
         for(int i=0;i<nums.length;i++)
         {
-            if(vis[i]==false)
+            if(i!=ind && !ds.contains(nums[i]))
             {
-                vis[i]=true;
                 ds.add(nums[i]);
-                helper(nums,vis,ds);
-                ds.pop();
-                vis[i]=false;
+                helper(i,nums,ds);
+                ds.remove(ds.size()-1);
             }
         }
-        return;
     }
+    
 }
