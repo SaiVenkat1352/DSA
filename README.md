@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/SaiVenkat1352/DSA/tree/master/0055-jump-game) |
+| [1428-jump-game-iii](https://github.com/SaiVenkat1352/DSA/tree/master/1428-jump-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/SaiVenkat1352/DSA/tree/master/0055-jump-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [1428-jump-game-iii](https://github.com/SaiVenkat1352/DSA/tree/master/1428-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1428-jump-game-iii](https://github.com/SaiVenkat1352/DSA/tree/master/1428-jump-game-iii) |
 <!---LeetCode Topics End-->
