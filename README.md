@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/SaiVenkat1352/DSA/tree/master/0055-jump-game) |
+| [0239-sliding-window-maximum](https://github.com/SaiVenkat1352/DSA/tree/master/0239-sliding-window-maximum) |
 | [0747-min-cost-climbing-stairs](https://github.com/SaiVenkat1352/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SaiVenkat1352/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1428-jump-game-iii](https://github.com/SaiVenkat1352/DSA/tree/master/1428-jump-game-iii) |
@@ -36,9 +37,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SaiVenkat1352/DSA/tree/master/0239-sliding-window-maximum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SaiVenkat1352/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 ## Counting
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/SaiVenkat1352/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SaiVenkat1352/DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SaiVenkat1352/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SaiVenkat1352/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
