@@ -2,31 +2,29 @@
 
 class Solution {
     public int shortestSubarray(int[] nums, int k) {
-        int n = nums.length;
-        long[] prefixSum = new long[n + 1]; // Prefix sum array
-        
-        for (int i = 0; i < n; i++) {
-            prefixSum[i + 1] = prefixSum[i] + nums[i];
+        // this is for prefix sum
+        long prefix[]=new long[nums.length+1];
+        for(int i=0;i<nums.length;i++)
+        {
+            prefix[i+1]=prefix[i]+nums[i];
         }
-        
-        Deque<Integer> deque = new LinkedList<>();
-        int minLength = Integer.MAX_VALUE;
-        
-        for (int i = 0; i <= n; i++) {
-            // Remove elements from the front if they form a valid subarray
-            while (!deque.isEmpty() && prefixSum[i] - prefixSum[deque.peekFirst()] >= k) {
-                minLength = Math.min(minLength, i - deque.pollFirst());
+        Deque<Integer> dq=new LinkedList<>();
+        int minLength=Integer.MAX_VALUE;
+        for(int i=0;i<=nums.length;i++)
+        {
+            while(!dq.isEmpty() && prefix[i]-prefix[dq.peekFirst()]>=k)
+            {
+                minLength=Math.min(minLength,i-dq.pollFirst());
+                //dq.pollFirst();
             }
-            
-            // Maintain increasing order of prefixSum in the deque
-            while (!deque.isEmpty() && prefixSum[i] <= prefixSum[deque.peekLast()]) {
-                deque.pollLast();
+            while(!dq.isEmpty() && prefix[dq.peekLast()]>=prefix[i])
+            {
+                dq.pollLast();
+
             }
-            
-            deque.offerLast(i);
+            dq.addLast(i);
+
         }
-        
         return minLength == Integer.MAX_VALUE ? -1 : minLength;
-        
     }
 }
