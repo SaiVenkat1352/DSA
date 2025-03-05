@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/SaiVenkat1352/DSA/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/SaiVenkat1352/DSA/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/SaiVenkat1352/DSA/tree/master/0239-sliding-window-maximum) |
 | [0747-min-cost-climbing-stairs](https://github.com/SaiVenkat1352/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SaiVenkat1352/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SaiVenkat1352/DSA/tree/master/0075-sort-colors) |
 | [0948-sort-an-array](https://github.com/SaiVenkat1352/DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/SaiVenkat1352/DSA/tree/master/0948-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SaiVenkat1352/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
