@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0110-balanced-binary-tree) |
 | [1428-jump-game-iii](https://github.com/SaiVenkat1352/DSA/tree/master/1428-jump-game-iii) |
 ## Breadth-First Search
 |  |
@@ -124,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/SaiVenkat1352/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
