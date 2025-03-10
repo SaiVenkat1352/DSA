@@ -13,12 +13,10 @@ public class Codec {
     public String serialize(TreeNode root) {
         StringBuilder sb=new StringBuilder();
         Queue<TreeNode> ds=new LinkedList<>();
-        ds.add(root);;
+        ds.add(root);
         while(!ds.isEmpty())
         {
-            int size=ds.size();
-            for(int i=0;i<size;i++)
-            {
+            
                 TreeNode node=ds.remove();
                 if(node==null){
                     sb.append("n ");
@@ -28,7 +26,7 @@ public class Codec {
                 ds.add(node.left);
                 ds.add(node.right);
                 
-            }
+            
         }
         return sb.toString();
     }
