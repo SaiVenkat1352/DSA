@@ -26,9 +26,9 @@ class Solution {
     {
         if(root==null)return 0;
         int left=helper(root.left,maxi);
-        if(left<0)left=0;
+        if(left<0) left=0;
         int right=helper(root.right,maxi);
-        if(right<0)right=0;
+        if(right<0) right= 0;
         maxi[0]=Math.max(maxi[0],left+right+root.val);
         return root.val+Math.max(left,right);
     }
