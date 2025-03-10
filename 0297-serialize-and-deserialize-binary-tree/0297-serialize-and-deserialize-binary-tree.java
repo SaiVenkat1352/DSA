@@ -12,52 +12,39 @@ public class Codec {
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
         StringBuilder sb=new StringBuilder();
-        Queue<TreeNode> ds=new LinkedList<>();
-        ds.add(root);
-        while(!ds.isEmpty())
-        {
-            
-                TreeNode node=ds.remove();
-                if(node==null){
-                    sb.append("n ");
-                    continue;
-                }
-                sb.append(node.val+" ");
-                ds.add(node.left);
-                ds.add(node.right);
-                
-            
-        }
+        helper(root,sb);
         return sb.toString();
+      
+    }
+    public void helper(TreeNode root,StringBuilder sb)
+    {
+        if(root==null){
+            sb.append("n ");
+            return;
+        }
+        sb.append(root.val+" ");
+        helper(root.left,sb);
+        helper(root.right,sb);
     }
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-        String values[]=data.split(" ");
-        if(values[0].equals("n"))return null;
-        TreeNode root=new TreeNode(Integer.parseInt(values[0]));
-        Queue<TreeNode> ds=new LinkedList<>();
-        ds.add(root);
-        for(int i=1;i<values.length;i++)
-        {
-            TreeNode node=ds.remove();
-            if(!values[i].equals("n"))
-            {
-                TreeNode left=new TreeNode(Integer.parseInt(values[i]));
-                node.left=left;
-                ds.add(left);
-                
-            }
-            if(!values[++i].equals("n"))
-            {
-                TreeNode right=new TreeNode(Integer.parseInt(values[i]));
-                node.right=right;
-                ds.add(right);
-                
-            }
-        }
+        Queue<String> ds=new LinkedList<>(Arrays.asList(data.split(" ")));
+        return helper1(ds);
+       
+       
+        
+        
+    }
+    public TreeNode helper1(Queue<String> queue)
+    {
+        String val=queue.poll();
+        if(val.equals("n"))return null;
+        TreeNode root = new TreeNode(Integer.parseInt(val));
+        root.left=helper1(queue);
+        root.right=helper1(queue);
         return root;
-        
-        
+
+
     }
 }
 
