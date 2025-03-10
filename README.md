@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SaiVenkat1352/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/SaiVenkat1352/DSA/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaiVenkat1352/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/SaiVenkat1352/DSA/tree/master/0747-min-cost-climbing-stairs) |
 ## Greedy
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaiVenkat1352/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1428-jump-game-iii](https://github.com/SaiVenkat1352/DSA/tree/master/1428-jump-game-iii) |
 ## Breadth-First Search
 |  |
@@ -129,8 +131,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaiVenkat1352/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaiVenkat1352/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
