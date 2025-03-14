@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SaiVenkat1352/DSA/tree/master/0239-sliding-window-maximum) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SaiVenkat1352/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SaiVenkat1352/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/SaiVenkat1352/DSA/tree/master/0948-sort-an-array) |
 ## Monotonic Queue
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/SaiVenkat1352/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SaiVenkat1352/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Tree
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/SaiVenkat1352/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SaiVenkat1352/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SaiVenkat1352/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiVenkat1352/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/SaiVenkat1352/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SaiVenkat1352/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SaiVenkat1352/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiVenkat1352/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -187,10 +191,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SaiVenkat1352/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SaiVenkat1352/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/SaiVenkat1352/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiVenkat1352/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SaiVenkat1352/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
