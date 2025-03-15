@@ -14,20 +14,40 @@ class Pair{
 class Solution{
     public List<Integer> findClosestElements(int[] nums, int k, int x) {
         List<Integer> list=new ArrayList<>();
-        PriorityQueue<Pair> maxHeap=new PriorityQueue<>((Pair a,Pair b)->a.diff==b.diff?b.val-a.val:b.diff-a.diff);
-        
-        for(int num:nums)
+        int left=0;
+        int right=nums.length-1;
+        while(right-left>=k)
         {
-            maxHeap.add(new Pair(Math.abs(num-x),num));
-            if(maxHeap.size()>k)maxHeap.remove();
+            if(Math.abs(nums[left]-x)>Math.abs(nums[right]-x))
+            {
+                left++;
+                
+            }
+            else if(Math.abs(nums[left]-x)==Math.abs(nums[right]-x))
+            {
+                if(nums[left]>nums[right])
+                {
+                    left++;
+                }
+                else{
+                    right--;
+                }
+
+
+            }
+            else{
+                right--;
+            }
+            
+
         }
-        while(!maxHeap.isEmpty())
+        while(left<=right)
         {
-            Pair p=maxHeap.remove();
-            list.add(p.val);
+            list.add(nums[left]);
+            left++;
         }
-        Collections.sort(list);
         return list;
+
 
         
     }
