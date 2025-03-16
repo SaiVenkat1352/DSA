@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/SaiVenkat1352/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiVenkat1352/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1428-jump-game-iii](https://github.com/SaiVenkat1352/DSA/tree/master/1428-jump-game-iii) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/SaiVenkat1352/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/SaiVenkat1352/DSA/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/SaiVenkat1352/DSA/tree/master/0316-remove-duplicate-letters) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/SaiVenkat1352/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SaiVenkat1352/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/SaiVenkat1352/DSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/SaiVenkat1352/DSA/tree/master/1014-k-closest-points-to-origin) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/SaiVenkat1352/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Monotonic Queue
 |  |
 | ------- |
