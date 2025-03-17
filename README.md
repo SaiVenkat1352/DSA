@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SaiVenkat1352/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/SaiVenkat1352/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SaiVenkat1352/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiVenkat1352/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SaiVenkat1352/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SaiVenkat1352/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SaiVenkat1352/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiVenkat1352/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SaiVenkat1352/DSA/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SaiVenkat1352/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/SaiVenkat1352/DSA/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SaiVenkat1352/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SaiVenkat1352/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/SaiVenkat1352/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SaiVenkat1352/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0948-sort-an-array](https://github.com/SaiVenkat1352/DSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/SaiVenkat1352/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
