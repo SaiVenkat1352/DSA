@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SaiVenkat1352/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/SaiVenkat1352/DSA/tree/master/0316-remove-duplicate-letters) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiVenkat1352/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SaiVenkat1352/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SaiVenkat1352/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiVenkat1352/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SaiVenkat1352/DSA/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SaiVenkat1352/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SaiVenkat1352/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiVenkat1352/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Counting
 |  |
 | ------- |
