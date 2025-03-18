@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SaiVenkat1352/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SaiVenkat1352/DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/SaiVenkat1352/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SaiVenkat1352/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SaiVenkat1352/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/SaiVenkat1352/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SaiVenkat1352/DSA/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaiVenkat1352/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/SaiVenkat1352/DSA/tree/master/0152-maximum-product-subarray) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SaiVenkat1352/DSA/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/SaiVenkat1352/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SaiVenkat1352/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
