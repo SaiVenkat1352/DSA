@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/SaiVenkat1352/DSA/tree/master/1428-jump-game-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SaiVenkat1352/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SaiVenkat1352/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SaiVenkat1352/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/SaiVenkat1352/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SaiVenkat1352/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiVenkat1352/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SaiVenkat1352/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SaiVenkat1352/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SaiVenkat1352/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SaiVenkat1352/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SaiVenkat1352/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
 | ------- |
