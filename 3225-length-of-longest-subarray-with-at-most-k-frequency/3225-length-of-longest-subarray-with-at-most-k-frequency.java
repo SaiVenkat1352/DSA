@@ -9,7 +9,7 @@ class Solution {
               map.put(nums[r],map.getOrDefault(nums[r],0)+1);
               while(map.get(nums[r])>k && l<=r)
               {
-                map.put(nums[l],map.getOrDefault(nums[l],0)-1);
+                map.put(nums[l],map.get(nums[l])-1);
                  if (map.get(nums[l]) == 0) {
                     map.remove(nums[l]);
                 }
