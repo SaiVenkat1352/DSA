@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SaiVenkat1352/DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/SaiVenkat1352/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SaiVenkat1352/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/SaiVenkat1352/DSA/tree/master/0152-maximum-product-subarray) |
 | [0239-sliding-window-maximum](https://github.com/SaiVenkat1352/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/SaiVenkat1352/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SaiVenkat1352/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SaiVenkat1352/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/SaiVenkat1352/DSA/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaiVenkat1352/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/SaiVenkat1352/DSA/tree/master/0152-maximum-product-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/SaiVenkat1352/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SaiVenkat1352/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
