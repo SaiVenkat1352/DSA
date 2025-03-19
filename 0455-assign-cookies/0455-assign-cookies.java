@@ -11,7 +11,7 @@ class Solution {
         {
             if(g[l]<=s[r])
             {
-                ans++;
+                
                 l++;
                 r++;
                 
@@ -21,7 +21,7 @@ class Solution {
             }
             
         }
-        return ans;
+        return l;
         
         
     }
