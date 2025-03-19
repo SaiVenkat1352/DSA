@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SaiVenkat1352/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/SaiVenkat1352/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SaiVenkat1352/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0455-assign-cookies](https://github.com/SaiVenkat1352/DSA/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/SaiVenkat1352/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiVenkat1352/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/SaiVenkat1352/DSA/tree/master/0658-find-k-closest-elements) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/SaiVenkat1352/DSA/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/SaiVenkat1352/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0455-assign-cookies](https://github.com/SaiVenkat1352/DSA/tree/master/0455-assign-cookies) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SaiVenkat1352/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Depth-First Search
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SaiVenkat1352/DSA/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/SaiVenkat1352/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SaiVenkat1352/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/SaiVenkat1352/DSA/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/SaiVenkat1352/DSA/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/SaiVenkat1352/DSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/SaiVenkat1352/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/SaiVenkat1352/DSA/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/SaiVenkat1352/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/SaiVenkat1352/DSA/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/SaiVenkat1352/DSA/tree/master/0658-find-k-closest-elements) |
 ## Design
 |  |
