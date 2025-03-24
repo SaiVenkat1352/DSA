@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/SaiVenkat1352/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1428-jump-game-iii](https://github.com/SaiVenkat1352/DSA/tree/master/1428-jump-game-iii) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/SaiVenkat1352/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/SaiVenkat1352/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1428-jump-game-iii](https://github.com/SaiVenkat1352/DSA/tree/master/1428-jump-game-iii) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/SaiVenkat1352/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Hash Table
 |  |
 | ------- |
@@ -293,8 +295,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SaiVenkat1352/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/SaiVenkat1352/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Shortest Path
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SaiVenkat1352/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+## Union Find
+|  |
+| ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/SaiVenkat1352/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
