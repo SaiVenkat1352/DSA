@@ -11,13 +11,14 @@ class Solution {
         //base case
         if(ind>=nums.length)return 0;
         if(dp[ind]!=-1)return dp[ind];
-        int take1=Integer.MIN_VALUE;
-        if(ind<nums.length)
+        int maxi=Integer.MIN_VALUE;
+        for(int i=ind;i<nums.length;i++)
         {
-            take1=nums[ind]+helper(ind+2,nums,dp);
+            int take=nums[i]+helper(i+2,nums,dp);
+            maxi=Math.max(maxi,take);
+            
         }
-        int take2=helper(ind+1,nums,dp);
-        return dp[ind]=Math.max(take1,take2);
+        return dp[ind]=maxi;
         
     }
 }
