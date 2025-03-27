@@ -1,19 +1,23 @@
 class Solution {
+
+
     public int rob(int[] nums) {
-        int dp[]=new int[nums.length];
+        int dp[]=new int[nums.length+1];
         Arrays.fill(dp,-1);
-        return helper(nums,0,dp);
+        return helper(0,nums,dp);
     }
-    public int helper(int[] nums,int ind,int dp[])
-    {
+
+    public static int helper( int ind, int nums[],int dp[]) {
+        //base case
         if(ind>=nums.length)return 0;
-        //pick the element
         if(dp[ind]!=-1)return dp[ind];
-        int left=nums[ind]+helper(nums,ind+2,dp);
-        int right=helper(nums,ind+1,dp);
-        return dp[ind]=Math.max(left,right);
+        int take1=Integer.MIN_VALUE;
+        if(ind<nums.length)
+        {
+            take1=nums[ind]+helper(ind+2,nums,dp);
+        }
+        int take2=helper(ind+1,nums,dp);
+        return dp[ind]=Math.max(take1,take2);
         
     }
-    
-    
 }
