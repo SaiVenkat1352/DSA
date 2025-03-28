@@ -5,27 +5,25 @@ class Solution {
         {
             Arrays.fill(arr,-1);
         }
-        return helper(nums,0,-1,dp);
+        return helper(0,-1,nums,dp);
+        
       
         
     }
-    public static int helper(int nums[],int ind,int prev,int dp[][]){
+    public static int helper(int ind,int prev,int nums[],int dp[][])
+    {
         //base case
         if(ind>=nums.length)return 0;
 
-        //take
-        if(dp[prev+1][ind]!=-1)return dp[prev+1][ind];
+
+        if(dp[ind][prev+1]!=-1)return dp[ind][prev+1];
+        int nottake=helper(ind+1,prev,nums,dp);
         int take=Integer.MIN_VALUE;
         if(prev==-1 || nums[ind]>nums[prev])
         {
-            take=1+helper(nums,ind+1,ind,dp);
+            take=1+helper(ind+1,ind,nums,dp);
         }
-
-        //nottake
-        int nottake=helper(nums,ind+1,prev,dp);
-
-        //return 
-        return dp[prev+1][ind]=Math.max(take,nottake);
+        return dp[ind][prev+1]=Math.max(take,nottake);
     }
-    
+   
 }
