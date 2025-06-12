@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaiVenkat1352/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0328-odd-even-linked-list](https://github.com/SaiVenkat1352/DSA/tree/master/0328-odd-even-linked-list) |
 ## Data Stream
 |  |
 | ------- |
