@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/SaiVenkat1352/DSA/tree/master/1129-longest-string-chain) |
 | [1428-jump-game-iii](https://github.com/SaiVenkat1352/DSA/tree/master/1428-jump-game-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SaiVenkat1352/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/SaiVenkat1352/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SaiVenkat1352/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SaiVenkat1352/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaiVenkat1352/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
