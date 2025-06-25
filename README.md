@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SaiVenkat1352/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SaiVenkat1352/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SaiVenkat1352/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SaiVenkat1352/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SaiVenkat1352/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SaiVenkat1352/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SaiVenkat1352/DSA/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/SaiVenkat1352/DSA/tree/master/0658-find-k-closest-elements) |
 | [1129-longest-string-chain](https://github.com/SaiVenkat1352/DSA/tree/master/1129-longest-string-chain) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SaiVenkat1352/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Design
 |  |
 | ------- |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SaiVenkat1352/DSA/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/SaiVenkat1352/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
