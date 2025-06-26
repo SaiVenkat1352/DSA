@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/SaiVenkat1352/DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/SaiVenkat1352/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SaiVenkat1352/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/SaiVenkat1352/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/SaiVenkat1352/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SaiVenkat1352/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SaiVenkat1352/DSA/tree/master/0213-house-robber-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SaiVenkat1352/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/SaiVenkat1352/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/SaiVenkat1352/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SaiVenkat1352/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiVenkat1352/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SaiVenkat1352/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SaiVenkat1352/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SaiVenkat1352/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Matrix
