@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SaiVenkat1352/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/SaiVenkat1352/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SaiVenkat1352/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SaiVenkat1352/DSA/tree/master/0056-merge-intervals) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SaiVenkat1352/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SaiVenkat1352/DSA/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/SaiVenkat1352/DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/SaiVenkat1352/DSA/tree/master/0295-find-median-from-data-stream) |
