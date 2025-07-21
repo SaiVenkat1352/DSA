@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SaiVenkat1352/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SaiVenkat1352/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/SaiVenkat1352/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SaiVenkat1352/DSA/tree/master/0054-spiral-matrix) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SaiVenkat1352/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SaiVenkat1352/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SaiVenkat1352/DSA/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/SaiVenkat1352/DSA/tree/master/0234-palindrome-linked-list) |
