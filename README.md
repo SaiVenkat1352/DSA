@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/SaiVenkat1352/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/SaiVenkat1352/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SaiVenkat1352/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SaiVenkat1352/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SaiVenkat1352/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SaiVenkat1352/DSA/tree/master/0057-insert-interval) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SaiVenkat1352/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SaiVenkat1352/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0967-minimum-falling-path-sum](https://github.com/SaiVenkat1352/DSA/tree/master/0967-minimum-falling-path-sum) |
 ## Recursion
@@ -353,5 +355,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SaiVenkat1352/DSA/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SaiVenkat1352/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
