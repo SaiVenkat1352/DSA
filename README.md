@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SaiVenkat1352/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SaiVenkat1352/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SaiVenkat1352/DSA/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/SaiVenkat1352/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SaiVenkat1352/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SaiVenkat1352/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SaiVenkat1352/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SaiVenkat1352/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/SaiVenkat1352/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SaiVenkat1352/DSA/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/SaiVenkat1352/DSA/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaiVenkat1352/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/SaiVenkat1352/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SaiVenkat1352/DSA/tree/master/0198-house-robber) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SaiVenkat1352/DSA/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/SaiVenkat1352/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SaiVenkat1352/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0967-minimum-falling-path-sum](https://github.com/SaiVenkat1352/DSA/tree/master/0967-minimum-falling-path-sum) |
 ## Recursion
