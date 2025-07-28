@@ -14,7 +14,7 @@ class Solution {
             else{
                 list.add(new int[]{first,second});
                 first=intervals[i][0];
-                second=Math.max(second,intervals[i][1]);
+                second=intervals[i][1];
             }
         }
         list.add(new int[]{first,second});
