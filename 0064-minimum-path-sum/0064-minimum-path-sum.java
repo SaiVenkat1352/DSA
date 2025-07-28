@@ -12,7 +12,7 @@ class Solution {
     public int helper(int m,int n,int dp[][],int grid[][])
     {
         if(m==0 && n==0)return grid[0][0];
-        if(m<0 || n<0)return (int)1e9;
+        if(m<0 || n<0)return (int)1e8;
         if(dp[m][n]!=-1)return dp[m][n];
         int left=grid[m][n]+helper(m-1,n,dp,grid);
         int right=grid[m][n]+helper(m,n-1,dp,grid);
