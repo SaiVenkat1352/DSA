@@ -341,11 +341,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/SaiVenkat1352/DSA/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiVenkat1352/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0866-rectangle-overlap](https://github.com/SaiVenkat1352/DSA/tree/master/0866-rectangle-overlap) |
 | [1014-k-closest-points-to-origin](https://github.com/SaiVenkat1352/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SaiVenkat1352/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Geometry
 |  |
 | ------- |
+| [0866-rectangle-overlap](https://github.com/SaiVenkat1352/DSA/tree/master/0866-rectangle-overlap) |
 | [1014-k-closest-points-to-origin](https://github.com/SaiVenkat1352/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
