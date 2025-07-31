@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SaiVenkat1352/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/SaiVenkat1352/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SaiVenkat1352/DSA/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/SaiVenkat1352/DSA/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/SaiVenkat1352/DSA/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/SaiVenkat1352/DSA/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/SaiVenkat1352/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SaiVenkat1352/DSA/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiVenkat1352/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/SaiVenkat1352/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SaiVenkat1352/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -390,4 +392,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SaiVenkat1352/DSA/tree/master/0046-permutations) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SaiVenkat1352/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SaiVenkat1352/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
